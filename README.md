@@ -72,7 +72,7 @@ macOS / Linux:
 
 ### 5. 啟動應用程式
 
-    streamlit run app.py
+    python -m streamlit run app.py
 
 啟動後，瀏覽器會自動開啟 http://localhost:8501。
 
